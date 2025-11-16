@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Source files (only compiled indicators in this repo)
+*.mq5
+*.mqh
