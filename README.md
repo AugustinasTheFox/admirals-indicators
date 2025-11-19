@@ -7,7 +7,6 @@ MT4 and MT5 indicators for Admirals trading platform.
 ### Market Structure Indicators
 
 - **MarketStructure_CHoCH_BOS** - Market Structure indicator showing Change of Character (CHoCH) and Break of Structure (BOS)
-  - Based on LuxAlgo's Pine Script indicator
   - Detects fractal-based market structure changes
   - Shows bullish and bearish structure breaks
   - Optional support/resistance levels
